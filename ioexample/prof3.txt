@@ -1,0 +1,10 @@
+3838,Suresh,ECE,phd
+3897,Ramesh,CSE,phd
+3840,Suraj,ECE,phd
+3810,Rakesh,CSE,phd
+3820,Rajesh,Mech,phd
+3838,Suresh,ECE,phd
+3897,Ramesh,CSE,phd
+3840,Suraj,ECE,phd
+3810,Rakesh,CSE,phd
+3820,Rajesh,Mech,phd
